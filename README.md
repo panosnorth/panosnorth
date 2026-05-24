@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Panos
 
-<!--
-**panosk-ai/panosk-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate focused on **Machine Learning**, **Artificial Intelligence**, and **Autonomous Systems**.
 
-Here are some ideas to get you started:
+I am interested in building intelligent systems that combine perception, learning, and decision-making to solve real-world problems. My main areas of interest include computer vision, AI robustness, autonomous systems, and the practical deployment of machine learning models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working on projects that connect theory with implementation, especially in areas where AI systems need to operate reliably under uncertainty.
+
+## Interests
+
+- Machine Learning & Deep Learning
+- Computer Vision
+- AI Safety & Robustness
+- Autonomous Systems
+- Robotics Perception
+- Reinforcement Learning
+- Applied AI Research
+- Cybersecurity and AI
+
+## Technical Skills
+
+**Languages:** Python, Java, SQL  
+**Machine Learning:** NumPy, pandas, scikit-learn, PyTorch, TensorFlow  
+**Development Tools:** Git, GitHub, Jupyter Notebook, VS Code  
+**Other:** Linux, data analysis, cybersecurity fundamentals, research and technical writing
+
+## Current Focus
+
+- Building a strong ML/AI project portfolio
+- Developing projects in computer vision and autonomous systems
+- Improving my research, experimentation, and software engineering workflow
+- Learning more about robust and trustworthy AI systems
+
+## Featured Projects
+
+Coming soon.
