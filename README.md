@@ -1,6 +1,6 @@
 # Hi, I'm Panos
 
-I'm a Computer Science graduate focused on **Machine Learning**, **Artificial Intelligence**, and **Autonomous Systems**.
+I'm a Computer Science student focused on **Machine Learning**, **Artificial Intelligence**, and **Autonomous Systems**.
 
 I am interested in building intelligent systems that combine perception, learning, and decision-making to solve real-world problems. My main areas of interest include computer vision, AI robustness, autonomous systems, and the practical deployment of machine learning models.
 
