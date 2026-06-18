@@ -11,9 +11,6 @@ I enjoy working on projects that connect theory with implementation, especially 
 - Machine Learning & Deep Learning
 - Computer Vision
 - AI Safety & Robustness
-- Autonomous Systems
-- Robotics Perception
-- Reinforcement Learning
 - Applied AI Research
 - Cybersecurity and AI
 
